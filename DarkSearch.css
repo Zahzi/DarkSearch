@@ -23,7 +23,7 @@
         color: #c5c5c5 !important;
     }
     /* Inverting colors */
-    .qbh, .s2tb .google-logo, #wob_gsp, ._kac, #qbi, .ab_icon, .gsok_a, ._Fnc, ._Jxg, .stt-uf, ._dVi, .kcb.checked::after, ._gW, .fYWO0d {
+    .qbh, .s2tb .google-logo, #wob_gsp, ._kac, #qbi, .ab_icon, .gsok_a, ._Fnc, ._Jxg, .stt-uf, ._dVi, .kcb.checked::after, ._gW, .fYWO0d, #eobs_0 {
         filter: invert(1) grayscale(1) !important;
     }
     ._Zgf {
@@ -129,7 +129,7 @@
     }
 
     /* TextD */
-    .rreh ._fk, span[style='color:#222'], #center_col ._Ak, #rhs ._Ak, ._i2g, ._g2g, .s, .st, ._cnc, #brs .med, ._Adb, ._tyb, .shop__secondary, .shop__secondary:link, .shop__secondary:visited, ._Lqc, .lc-loc-text, .gko-ctrl, .gko-ctrl:link, .gko-ctrl:visited, ._uxi, ._Hxi, ._gah, ._e9n, ._cNr, ._Nar, ._lhs, ._DSo, .ads-ad, .cwUqwd, .y8Jpof .LrzXr, .garHBe, .ptJHdc .v7hl4d, .cYBBsb, .wEE4ud, .uhLbob {
+    .rreh ._fk, span[style='color:#222'], #center_col ._Ak, #rhs ._Ak, ._i2g, ._g2g, .s, .st, ._cnc, #brs .med, ._Adb, ._tyb, .shop__secondary, .shop__secondary:link, .shop__secondary:visited, ._Lqc, .lc-loc-text, .gko-ctrl, .gko-ctrl:link, .gko-ctrl:visited, ._uxi, ._Hxi, ._gah, ._e9n, ._cNr, ._Nar, ._lhs, ._DSo, .ads-ad, .cwUqwd, .y8Jpof .LrzXr, .garHBe, .ptJHdc .v7hl4d, .cYBBsb, .wEE4ud, .uhLbob, .eJ7tvc {
         color: /*[[MAINTEXTCOLOR]]*/ !important;
     }
 
@@ -731,7 +731,7 @@
     }
     
     /* people also search for */
-    .exp-outline {
+    .exp-outline, .AUiS2 {
         border-color: rgba(255,255,255,0.13) !important;
     }
     .kN9UDnqLeMg__dismiss-button {
